@@ -12,6 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Since-2025-blue" alt="Since"/>
+  <img src="https://img.shields.io/badge/Focus-Robotics-green" alt="Focus"/>
 </p>
 
 ---
