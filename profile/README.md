@@ -28,7 +28,8 @@ Welcome to Edge Robotics Studio's github repostitories ! Here you will find all 
 
 ## 📧 Contact & Inquiries
 
-We are passionate about sharing our work and collaborating with others. If you have any questions or need support, please reach out to us !
+We are passionate about sharing our work and collaborating with others. If you have any questions or need support.
+please reach out to us !
 
 - **Primary Contact** : edgeroboticsstudio@gmail.com
 
