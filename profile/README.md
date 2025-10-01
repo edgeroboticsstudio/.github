@@ -10,10 +10,8 @@
     Edge Robotics Studio
 </p>
 
-<p align="center"> 
-    ![Since](https://img.shields.io/badge/Since-2025-blue)
-</p>
-  
+![Since](https://img.shields.io/badge/Since-2025-blue)
+
 ---
 
 ## 🤖 About Us
