@@ -18,7 +18,7 @@
 
 ## 🤖 About Us
 
-Welcome to Edge Robotics Studio's github repostitories! Here you will find all the opensource firmware and software we maintain.
+Welcome to Edge Robotics Studio's github repostitories ! Here you will find all the opensource firmware and software we maintain.
 
 ## 🚀 Current Projects  
 
@@ -28,7 +28,12 @@ Welcome to Edge Robotics Studio's github repostitories! Here you will find all t
 
 ## 📧 Contact & Inquiries
 
-For support and dicussions send an e-mail to edgeroboticsstudio@gmail.com.
+We are passionate about sharing our work and collaborating with others. If you have any questions or need support, please reach out to us !
+
+- Primary Contact: edgeroboticsstudio@gmail.com
+
+- Team Members:
+ Dharmesh Makvana: buildwithdharmesh@gmail.com
 
 <p align="center">
   Made with ❤️ by <b> Edge Robotics Studio </b>
