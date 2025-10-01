@@ -33,7 +33,7 @@ We are passionate about sharing our work and collaborating with others. If you h
 - Primary Contact : edgeroboticsstudio@gmail.com
 
 - Team Members:
-   ○ Dharmesh Makvana : buildwithdharmesh@gmail.com
+ - Dharmesh Makvana : buildwithdharmesh@gmail.com
 
 <p align="center">
   Made with ❤️ by <b> Edge Robotics Studio </b>
