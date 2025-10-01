@@ -1,3 +1,31 @@
+<p align="center">
+Empowering Discovery Guiding Exploration
+</p>
+
+<p align="center">
+  <img src="logo.png" alt="Organization Logo" width="200"/>
+</p>
+
+Edge Robotics Studio
+
+![Since](https://img.shields.io/badge/Since-2025-blue)
+
+---
+
+## 🤖 About Us
+
 Welcome to Edge Robotics Studio's github repostitories! Here you will find all the opensource firmware and software we maintain.
 
-For support and dicussions send an e-mail to edgeroboticsstudio@gmail.com. For documentation and other information go to our website at edgeroboticsstudio.com
+## 🚀 Current Projects  
+
+## 🏆 Achievements 
+
+## 👥 Team 
+
+## 📧 Contact & Inquiries
+
+For support and dicussions send an e-mail to edgeroboticsstudio@gmail.com.
+
+<p align="center">
+  Made with ❤️ by <b> Edge Robotics Studio </b>
+</p>
