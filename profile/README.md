@@ -1,15 +1,19 @@
 <p align="center">
-Empowering Discovery Guiding Exploration
+  Empowering Discovery Guiding Exploration
 </p>
 
 <p align="center">
-  <img src="logo.png" alt="Organization Logo" width="200"/>
+   <img src="logo.png" alt="Organization Logo" width="200"/>
 </p>
 
-Edge Robotics Studio
+<p align="center">
+    Edge Robotics Studio
+</p>
 
-![Since](https://img.shields.io/badge/Since-2025-blue)
-
+<p align="center"> 
+    ![Since](https://img.shields.io/badge/Since-2025-blue)
+</p>
+  
 ---
 
 ## 🤖 About Us
