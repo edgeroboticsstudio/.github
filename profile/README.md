@@ -12,6 +12,10 @@
 
 ![Since](https://img.shields.io/badge/Since-2025-blue)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Since-2025-blue" alt="Since"/>
+</p>
+
 ---
 
 ## 🤖 About Us
