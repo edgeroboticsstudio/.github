@@ -38,6 +38,9 @@ Welcome to Edge Robotics Studio's github repostitories ! Here you will find all 
 
 ## 🚀 Current Projects  
 
+- Edge AI Manipulator : Advanced 6-DOF robotic arm with onboard AI for autonomous sorting.
+
+
 
 
 
