@@ -61,7 +61,7 @@ Welcome to Edge Robotics Studio's github repostitories ! Here you will find all 
 ## 👥 Team 
 
 - **Team Members:**
-   - Dharmesh Makvana : buildwithdharmesh@gmail.com
+   - Dharmesh Makvana
  
 
 ---
