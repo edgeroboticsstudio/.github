@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img src="logo.png" alt="Organization Logo" width="200" style="border-radius:20px;">
+   <img src="logo.png" alt="Organization Logo" width="200">
 </p>
 
 <h1 align="center">
