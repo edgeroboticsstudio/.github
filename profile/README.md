@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <b>Edge Robotics Studio</b>
+  <b><sub></sub></b><br>
+  <b><span style="font-size: 200%;">Edge Robotics Studio</span></b>
 </p>
 
 <p align="center">
