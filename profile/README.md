@@ -1,14 +1,15 @@
-<p align="center">
-  Empowering Discovery Guiding Exploration
-</p>
+
 
 <p align="center">
    <img src="logo.png" alt="Organization Logo" width="200">
 </p>
 
 <p align="center">
-  <b><sub></sub></b><br>
-  <b><span style="font-size: 200%;">Edge Robotics Studio</span></b>
+  <strong style="font-size: 36px;">Edge Robotics Studio</strong>
+</p>
+
+<p align="center">
+  Empowering Discovery Guiding Exploration
 </p>
 
 <p align="center">
