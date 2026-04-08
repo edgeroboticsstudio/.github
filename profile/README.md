@@ -49,7 +49,7 @@ Welcome to Edge Robotics Studio's github repostitories ! Here you will find all 
 
 
 
-
+<!---
 
 ## 🏆 Achievements 
 
@@ -58,7 +58,7 @@ Welcome to Edge Robotics Studio's github repostitories ! Here you will find all 
 
 ---
 
-
+--->
 
 
 ## 👥 Team 
