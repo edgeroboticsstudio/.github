@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 36px;">Edge Robotics Studio</strong>
+  <strong style="font-size: 50px;">Edge Robotics Studio</strong>
 </p>
 
 <p align="center">
