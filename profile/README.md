@@ -4,9 +4,9 @@
    <img src="logo.png" alt="Organization Logo" width="200">
 </p>
 
-<p align="center">
-  <strong style="font-size: 50px;">Edge Robotics Studio</strong>
-</p>
+<h1 align="center">
+  Edge Robotics Studio
+</h1>
 
 <p align="center">
   Empowering Discovery Guiding Exploration
