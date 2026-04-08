@@ -6,9 +6,9 @@
    <img src="logo.png" alt="Organization Logo" width="200">
 </p>
 
-<h1 align="center">
-    Edge Robotics Studio
-</h1>
+<p align="center">
+  <b>Edge Robotics Studio</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Since-2025-blue" alt="Since"/>
